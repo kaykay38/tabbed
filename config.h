@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const char font[]        = "notosans nerd font:size=9";
+static const char font[]        = "notosans:size=9";
 static const char* normbgcolor  = "#303030";
 static const char* normfgcolor  = "#bbbbbb";
 static const char* selbgcolor   = "#444444";

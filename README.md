@@ -2,9 +2,19 @@ tabbed - generic tabbed interface
 =================================
 tabbed is a simple tabbed X window container.
 
+Screenshot
+------------
+![](./screenshot.png)
+
+Applied Patches
+---------------
+- [Alpha](./patches/alpha.diff)
+
 Requirements
 ------------
 In order to build tabbed you need the Xlib header files.
+
+- **Fonts** - [Noto Sans Nerd Font Regular](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Noto/Sans/complete/Noto%20Sans%20Regular%20Nerd%20Font%20Complete.ttf)
 
 Installation
 ------------
