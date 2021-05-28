@@ -8,7 +8,10 @@ Screenshot
 
 Applied Patches
 ---------------
-- [Alpha](./patches/alpha.diff)
+- [alpha](./patches/alpha.diff)
+- [autohide](./patches/tabbed-autohide-20201222-dabf6a2.diff)
+- [utf8encoding](./patches/tabbed-encoding-20200613.diff)
+- [app icon](./patches/tabbed-icon-20200905-2da4e96.diff)
 
 Requirements
 ------------
